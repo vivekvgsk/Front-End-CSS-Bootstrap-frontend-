@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+}
+
+h1{
+    color: aqua;
+}
+div{
+    border: 1px solid beige;
+    height:400px;
+    width:18%;
+    float:left;
+}

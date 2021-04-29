@@ -1,0 +1,40 @@
+body{
+    background-image: url(images1/bb.jpg);
+    
+}
+h1{
+    color:yellow;
+    text-align: center;
+}
+#section1{
+    background-color: burlywood;
+    
+   
+}
+img{
+    width: 10%;
+    height: 80px;
+}
+
+div img{
+    margin-left: 25%;
+    width: 50%;
+    height: 50px;
+}
+div{
+    background-color: white;
+    width: 24.5%;
+    height: 220px;
+    float: left;
+    border:1px solid red;
+}
+h2{
+    text-align: center;
+}
+#section3{
+    background-color:blanchedalmond;
+}
+.section2{
+    background-color: aquamarine;
+
+}

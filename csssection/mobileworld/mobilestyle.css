@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+h1{
+    color: blanchedalmond;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color: darkblue;
+    text-align: center;
+    
+}
+.container{
+    width: 100%;
+    height: 800px;
+    background-color: cornsilk;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.container2{
+    width: 100%;
+    height: 800px;
+    background-color: lightyellow;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.col{
+    width: 20%;
+    height: 800px;
+    border-width: 20%;
+    border:1px solid red;
+}
+img{
+    width: 100%;
+    height: 50%;
+}

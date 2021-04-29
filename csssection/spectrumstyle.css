@@ -1,0 +1,146 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Orelega One', cursive;
+}
+.one{
+    margin-left: 210px;
+   height: 100px;
+    width: 100px;
+    
+    
+  
+}
+#first{
+    background-color: grey;
+}
+#second{
+    background-color: rgba(23, 209, 63, 0.514);
+    position: relative;
+    bottom: 100px;
+    left: 105px;
+}
+#third{
+    background-color:#79c77b;
+    position: relative;
+    bottom: 200px;
+    left: 209px;
+}
+#four{
+    background-color:#03fc07;
+    position: relative;
+    bottom: 300px;
+    left: 312px;
+}
+#five{
+    background-color:blanchedalmond;
+    position: relative;
+    bottom: 400px;
+    left: 415px;
+}
+.two{
+    margin-left: 155px;
+    margin-top: 50px;
+   height: 100px;
+    width: 100px;
+    
+}
+#six{
+    background-color: orange;
+}
+#seven{
+    background-color:#d96a66;
+    position: relative;
+    bottom: 150px;
+    left: 106px;
+}
+#eight{
+    background-color:#b37082;
+    position: relative;
+    bottom: 300px;
+    left: 211px;
+}
+#nine{
+    background-color:#8479e8;
+    position: relative;
+    bottom: 450px;
+    left: 315px;
+}
+#ten{
+    background-color:#4f3df2;
+    position: relative;
+    bottom: 600px;
+    left: 419px;
+}
+#eleven{
+    background-color:#7d72db;
+    position: relative;
+    bottom: 750px;
+    left: 523px;
+}
+#twelve{
+    background-color:#6b6882;
+    position: relative;
+    bottom: 900px;
+    left: 627px;
+}
+.three{
+    margin-left: 100px;
+    margin-top: 50px;
+   height: 100px;
+    width: 100px;
+}
+#thirteen{
+    background-color: #50c8e6;
+}
+#forteen{
+    background-color:#aeebcf;
+    position: relative;
+    bottom: 150px;
+    left: 106px;
+}
+#fifteen{
+    background-color:#e39368;
+    position: relative;
+    bottom: 300px;
+    left: 211px;
+}
+#sixteen{
+    background-color:#961b7c;
+    position: relative;
+    bottom: 450px;
+    left: 315px;
+}
+#seventeen{
+    background-color:#472941;
+    position: relative;
+    bottom: 600px;
+    left: 419px;
+}
+#eighteen{
+    background-color:#6ef5f3;
+    position: relative;
+    bottom: 750px;
+    left: 523px;
+}
+#nineteen{
+    background-color:#459695;
+    position: relative;
+    bottom: 900px;
+    left: 627px;
+}
+#twenty{
+    background-color:#5e4a8a;
+    position: relative;
+    bottom: 1050px;
+    left: 731px;
+}
+#twentyone{
+    background-color:#512370;
+    position: relative;
+    bottom: 1200px;
+    left: 835px;
+}

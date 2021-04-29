@@ -1,0 +1,30 @@
+div{
+    border: 1px solid red;
+    width: 50%;
+    font-size: 30px;
+    font-weight: 600;
+    text-decoration: underline;
+   
+}
+#first{
+    position: relative;
+    left: 480px;
+   
+    
+}
+#second{
+    position: relative;
+    top: 250px;
+    left: 480px;
+   
+    
+}
+#third{
+    position: relative;
+    top: 500px;
+    left: 480px;
+}
+#inn{
+    position: relative;
+    left: 5%;
+}
